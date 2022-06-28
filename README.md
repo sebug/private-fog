@@ -19,4 +19,13 @@ https://docs.vmware.com/en/VMware-vSphere/7.0/vsphere-esxi-host-client-1344-guid
 
 Platform Services Controller (common services across infrastructure).
 
-Embedded: Take the same 
+Embedded: Take the same.
+
+VSphere Center: More or less as I imagined it. Right click edit. Tags.
+
+Fault Domain Manager
+
+VMware cloud foundation services!
+
+Up to page 236.
+
